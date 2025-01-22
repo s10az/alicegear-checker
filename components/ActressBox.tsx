@@ -20,13 +20,13 @@ const ActressBox = ({ actress, onClick }: ActressBoxProps) => {
 	<div
 	  className={"relative border border-gray-500 rounded-md w-36 h-36 " + bg}
 	  onClick={onClickHandler}>
-	  <div className="mt-3">
+	  <div>
 	    <Image
 	      src={imageFile}
-	      width={64}
-	      height={96}
+	      width={70}
+	      height={105}
 	      alt={actress.name}
-	      className={"w-16 h-24 mx-auto " + opacity} />
+	      className={"w-[70px] h-[105px] mt-1.5 mx-auto " + opacity} />
   	    <p className="text-center mt-1">
 	      {actress.name}
 	      {(actress.kind == "another" ? " (A)" : "")}
