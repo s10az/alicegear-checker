@@ -5,6 +5,7 @@
 ## Development
 
 ```bash
+pnpm install
 pnpm dev
 ```
 
