@@ -43,7 +43,7 @@ const ActressList = () => {
       <p className="text-xl text-center m-2">
         スカウト率 {percentage}% ( {actressCheckedNum}/{actressNum} )
       </p>
-      <div className="max-w-3xl mx-auto my-4 flex flex-wrap justify-center gap-2">
+      <div className="max-w-[900px] mx-auto my-4 flex flex-wrap justify-center gap-2">
         {allActressState.map((actress) => (
           <ActressBox
             key={actress.id}

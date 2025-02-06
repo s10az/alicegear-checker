@@ -7,29 +7,44 @@ interface ActressBoxProps {
   onClick: (id: string) => void;
 }
 
+function getAttributeColor(attribute: string) {
+  switch (attribute) {
+    case "electric":
+      return "bg-yellow-400";
+    case "gravity":
+      return "bg-purple-400";
+    case "heat":
+      return "bg-red-400";
+    case "freeze":
+      return "bg-blue-400";
+  }
+
+  return "";
+}
+
 const ActressBox = ({ actress, onClick }: ActressBoxProps) => {
   const onClickHandler = () => {
     onClick(actress.id);
   };
 
   const imageFile: string = "/actress/" + actress.id + ".jpg";
-  const bg: string = actress.isChecked ? "bg-cyan-200" : "bg-gray-200";
-  const opacity: string = actress.isChecked ? "opacity-100" : "opacity-50";
 
   return (
     <div
-      className={"relative border border-gray-500 rounded-md w-36 h-36 " + bg}
+      className={`border border-gray-500 rounded-md w-[150px] h-[150px] ${actress.isChecked ? "bg-cyan-200" : "bg-gray-200"}`}
       onClick={onClickHandler}
     >
-      <div>
+      <div className="flex flex-col justify-end h-full">
         <Image
           src={imageFile}
-          width={70}
-          height={105}
+          width={80}
+          height={120}
           alt={actress.name}
-          className={"w-[70px] h-[105px] mt-1.5 mx-auto " + opacity}
+          className={`w-[80px] h-[120px] mx-auto my-auto ${actress.isChecked ? "opacity-100" : "opacity-50"}`}
         />
-        <p className="text-center mt-1">
+        <p
+          className={`text-center rounded-md ${getAttributeColor(actress.attribute)} ${actress.isChecked ? "opacity-100" : "opacity-50"}`}
+        >
           {actress.name}
           {actress.kind == "another" ? " (A)" : ""}
           {actress.kind == "factor" ? " (F)" : ""}
