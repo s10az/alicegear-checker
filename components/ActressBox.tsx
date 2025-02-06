@@ -29,9 +29,19 @@ const ActressBox = ({ actress, onClick }: ActressBoxProps) => {
 
   const imageFile: string = "/actress/" + actress.id + ".jpg";
 
+  let name: string = actress.name;
+
+  if (actress.kind == "another") {
+    name += " (A)";
+  } else if (actress.kind == "factor") {
+    name += " (F)";
+  } else if (actress.kind == "stellar") {
+    name += " (S)";
+  }
+
   return (
     <div
-      className={`border border-gray-500 rounded-md w-[150px] h-[150px] ${actress.isChecked ? "bg-cyan-200" : "bg-gray-200"}`}
+      className={`border border-gray-500 rounded-md text-[10px] sm:text-sm  w-[110px] h-[110px] sm:w-[150px] sm:h-[150px] ${actress.isChecked ? "bg-cyan-100" : "bg-gray-200"}`}
       onClick={onClickHandler}
     >
       <div className="flex flex-col justify-end h-full">
@@ -39,16 +49,13 @@ const ActressBox = ({ actress, onClick }: ActressBoxProps) => {
           src={imageFile}
           width={80}
           height={120}
-          alt={actress.name}
-          className={`w-[80px] h-[120px] mx-auto my-auto ${actress.isChecked ? "opacity-100" : "opacity-50"}`}
+          alt={name}
+          className={`w-[60px] h-[90px] sm:w-[80px] sm:h-[120px] m-auto ${actress.isChecked ? "opacity-100" : "opacity-50"}`}
         />
         <p
           className={`text-center rounded-md ${getAttributeColor(actress.attribute)} ${actress.isChecked ? "opacity-100" : "opacity-50"}`}
         >
-          {actress.name}
-          {actress.kind == "another" ? " (A)" : ""}
-          {actress.kind == "factor" ? " (F)" : ""}
-          {actress.kind == "stellar" ? " (S)" : ""}
+          {name}
         </p>
       </div>
     </div>
