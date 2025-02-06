@@ -1,20 +1,24 @@
 "use client";
 
-import React, { useState } from "react";
+import React from "react";
 import ActressData from "@/assets/actress.json";
 import ActressBox from "@/components/ActressBox";
 import { ActressType } from "@/types/actress";
+import { useAtom } from "jotai";
+import { atomWithStorage } from "jotai/utils";
+
+const allActress: ActressType[] = ActressData.map((actress) => {
+  return {
+    ...actress,
+    isChecked: false,
+  } as ActressType;
+});
+
+const allActressAtom = atomWithStorage("allActress", allActress);
 
 const ActressList = () => {
-  const allActress: ActressType[] = ActressData.map((actress) => {
-    return {
-      ...actress,
-      isChecked: false,
-    } as ActressType;
-  });
-
   const [allActressState, setAllActressState] =
-    useState<ActressType[]>(allActress);
+    useAtom<ActressType[]>(allActressAtom);
 
   const handleToggleCheck = (id: string) => {
     setAllActressState((prevState) =>
