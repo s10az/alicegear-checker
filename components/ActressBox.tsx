@@ -53,7 +53,7 @@ const ActressBox = ({ actress, onClick }: ActressBoxProps) => {
           className={`w-[60px] h-[90px] sm:w-[80px] sm:h-[120px] m-auto ${actress.isChecked ? "opacity-100" : "opacity-50"}`}
         />
         <p
-          className={`text-center rounded-md ${getAttributeColor(actress.attribute)} ${actress.isChecked ? "opacity-100" : "opacity-50"}`}
+          className={`text-center rounded ${getAttributeColor(actress.attribute)} ${actress.isChecked ? "opacity-100" : "opacity-50"}`}
         >
           {name}
         </p>
