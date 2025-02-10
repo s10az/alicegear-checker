@@ -33,21 +33,20 @@ const ActressBox = () => {
 
   return (
     <>
-      <p className="text-lg sm:text-xl text-center my-2">
+      <p className="text-lg sm:text-xl text-center my-6">
         スカウト率 {percentage}% ( {actressCheckedNum}/{actressNum} )
       </p>
 
-      {actressCheckedNum > 0 && (
-        <div className="flex justify-center my-4">
-          <button
-            onClick={handleReset}
-            className="text-sm px-3 py-1 bg-gray-200 border border-gray-500 rounded hover:bg-gray-400"
-            title="全アクトレスの選択状態を解除します"
-          >
-            リセット
-          </button>
-        </div>
-      )}
+      <div className="flex justify-center my-4">
+        <button
+          onClick={handleReset}
+          className="text-sm bg-green-300 disabled:bg-gray-400 border border-gray-500 disabled:border-black rounded px-1 py-1"
+          disabled={actressCheckedNum > 0 ? false : true}
+          title="全アクトレスの選択状態を解除します"
+        >
+          リセット
+        </button>
+      </div>
 
       <FilterList />
 
