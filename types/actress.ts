@@ -4,4 +4,5 @@ export type ActressType = {
   attribute: string;
   kind: string;
   isChecked: boolean;
+  isFiltered: boolean;
 };

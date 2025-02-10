@@ -1,9 +1,10 @@
 "use client";
 
-import React from "react";
 import { useAtom } from "jotai";
+import { ActressType } from "@/types/actress";
 import { allActressAtom } from "@/atoms";
 import ActressList from "@/components/ActressList";
+import FilterList from "@/components/FilterList";
 
 const ActressBox = () => {
   const [allActressState, setAllActressState] =
@@ -47,6 +48,8 @@ const ActressBox = () => {
           </button>
         </div>
       )}
+
+      <FilterList />
 
       <ActressList />
     </>

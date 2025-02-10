@@ -1,6 +1,5 @@
 "use client";
 
-import React from "react";
 import ActressBox from "@/components/ActressBox";
 import { ActressType } from "@/types/actress";
 import { useAtom } from "jotai";
@@ -18,7 +17,7 @@ const ActressList = () => {
           : actress,
       ),
     );
-    // console.log(allActressState)
+    // console.log(allActressState);
   };
 
   return (

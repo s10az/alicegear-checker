@@ -1,4 +1,3 @@
-import React from "react";
 import Image from "next/image";
 import { ActressType } from "@/types/actress";
 
@@ -7,7 +6,7 @@ interface ActressBoxProps {
   onClick: (id: string) => void;
 }
 
-function getAttributeColor(attribute: string) {
+function getAttributeColor(attribute: string): string {
   switch (attribute) {
     case "electric":
       return "bg-yellow-400";
@@ -41,7 +40,7 @@ const ActressBox = ({ actress, onClick }: ActressBoxProps) => {
 
   return (
     <div
-      className={`border border-gray-500 rounded-md text-[10px] sm:text-sm  w-[110px] h-[110px] sm:w-[150px] sm:h-[150px] ${actress.isChecked ? "bg-cyan-100" : "bg-gray-200"}`}
+      className={`border border-gray-500 rounded-md text-[10px] sm:text-sm  w-[110px] h-[110px] sm:w-[150px] sm:h-[150px] ${actress.isChecked ? "bg-cyan-100" : "bg-gray-200"} ${actress.isFiltered && "hidden"}`}
       onClick={onClickHandler}
     >
       <div className="flex flex-col justify-end h-full">
