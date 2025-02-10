@@ -1,4 +1,4 @@
-import ActressList from "@/components/ActressList";
+import ActressBlock from "@/components/ActressBlock";
 
 export default function Home() {
   return (
@@ -8,7 +8,7 @@ export default function Home() {
         スカウト率チェッカー
       </h1>
 
-      <ActressList />
+      <ActressBlock />
     </main>
   );
 }
