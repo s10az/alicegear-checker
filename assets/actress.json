@@ -1,974 +1,974 @@
 [
   {
-	"id": "yotsuyu_n",
-	"name": "比良坂 夜露",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "yotsuyu_n",
+    "name": "比良坂 夜露",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "yotsuyu_a",
-	"name": "比良坂 夜露",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "yotsuyu_a",
+    "name": "比良坂 夜露",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "yotsuyu_f",
-	"name": "比良坂 夜露",
-	"attribute": "electric",
-	"kind": "factor"
+    "id": "yotsuyu_f",
+    "name": "比良坂 夜露",
+    "attribute": "electric",
+    "kind": "factor"
   },
   {
-	"id": "shitara_n",
-	"name": "兼志谷 シタラ",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "shitara_n",
+    "name": "兼志谷 シタラ",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "shitara_a",
-	"name": "兼志谷 シタラ",
-	"attribute": "gravity",
-	"kind": "another"
+    "id": "shitara_a",
+    "name": "兼志谷 シタラ",
+    "attribute": "gravity",
+    "kind": "another"
   },
   {
-	"id": "shitara_f",
-	"name": "兼志谷 シタラ",
-	"attribute": "gravity",
-	"kind": "factor"
+    "id": "shitara_f",
+    "name": "兼志谷 シタラ",
+    "attribute": "gravity",
+    "kind": "factor"
   },
   {
-	"id": "fumika_n",
-	"name": "百科 文嘉",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "fumika_n",
+    "name": "百科 文嘉",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "fumika_a",
-	"name": "百科 文嘉",
-	"attribute": "freeze",
-	"kind": "another"
+    "id": "fumika_a",
+    "name": "百科 文嘉",
+    "attribute": "freeze",
+    "kind": "another"
   },
   {
-	"id": "fumika_f",
-	"name": "百科 文嘉",
-	"attribute": "freeze",
-	"kind": "factor"
+    "id": "fumika_f",
+    "name": "百科 文嘉",
+    "attribute": "freeze",
+    "kind": "factor"
   },
   {
-	"id": "kaede_n",
-	"name": "吾妻 楓",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "kaede_n",
+    "name": "吾妻 楓",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "kaede_a",
-	"name": "吾妻 楓",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "kaede_a",
+    "name": "吾妻 楓",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "kaede_f",
-	"name": "吾妻 楓",
-	"attribute": "electric",
-	"kind": "factor"
+    "id": "kaede_f",
+    "name": "吾妻 楓",
+    "attribute": "electric",
+    "kind": "factor"
   },
   {
-	"id": "rin_n",
-	"name": "日向 リン",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "rin_n",
+    "name": "日向 リン",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "rin_a",
-	"name": "日向 リン",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "rin_a",
+    "name": "日向 リン",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "rin_f",
-	"name": "日向 リン",
-	"attribute": "heat",
-	"kind": "factor"
+    "id": "rin_f",
+    "name": "日向 リン",
+    "attribute": "heat",
+    "kind": "factor"
   },
   {
-	"id": "rei_n",
-	"name": "小鳥遊 怜",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "rei_n",
+    "name": "小鳥遊 怜",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "rei_a",
-	"name": "小鳥遊 怜",
-	"attribute": "freeze",
-	"kind": "another"
+    "id": "rei_a",
+    "name": "小鳥遊 怜",
+    "attribute": "freeze",
+    "kind": "another"
   },
   {
-	"id": "rei_f",
-	"name": "小鳥遊 怜",
-	"attribute": "freeze",
-	"kind": "factor"
+    "id": "rei_f",
+    "name": "小鳥遊 怜",
+    "attribute": "freeze",
+    "kind": "factor"
   },
   {
-	"id": "rei_s",
-	"name": "小鳥遊 怜",
-	"attribute": "heat",
-	"kind": "stellar"
+    "id": "rei_s",
+    "name": "小鳥遊 怜",
+    "attribute": "heat",
+    "kind": "stellar"
   },
   {
-	"id": "ayaka_n",
-	"name": "一条 綾香",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "ayaka_n",
+    "name": "一条 綾香",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "ayaka_a",
-	"name": "一条 綾香",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "ayaka_a",
+    "name": "一条 綾香",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "ayaka_f",
-	"name": "一条 綾香",
-	"attribute": "heat",
-	"kind": "factor"
+    "id": "ayaka_f",
+    "name": "一条 綾香",
+    "attribute": "heat",
+    "kind": "factor"
   },
   {
-	"id": "aika_n",
-	"name": "相河 愛花",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "aika_n",
+    "name": "相河 愛花",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "aika_a",
-	"name": "相河 愛花",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "aika_a",
+    "name": "相河 愛花",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "aika_f",
-	"name": "相河 愛花",
-	"attribute": "electric",
-	"kind": "factor"
+    "id": "aika_f",
+    "name": "相河 愛花",
+    "attribute": "electric",
+    "kind": "factor"
   },
   {
-	"id": "mutsumi_n",
-	"name": "小芦 睦海",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "mutsumi_n",
+    "name": "小芦 睦海",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "mutsumi_a",
-	"name": "小芦 睦海",
-	"attribute": "freeze",
-	"kind": "another"
+    "id": "mutsumi_a",
+    "name": "小芦 睦海",
+    "attribute": "freeze",
+    "kind": "another"
   },
   {
-	"id": "mutsumi_f",
-	"name": "小芦 睦海",
-	"attribute": "freeze",
-	"kind": "factor"
+    "id": "mutsumi_f",
+    "name": "小芦 睦海",
+    "attribute": "freeze",
+    "kind": "factor"
   },
   {
-	"id": "mai_n",
-	"name": "二子玉 舞",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "mai_n",
+    "name": "二子玉 舞",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "mai_a",
-	"name": "二子玉 舞",
-	"attribute": "freeze",
-	"kind": "another"
+    "id": "mai_a",
+    "name": "二子玉 舞",
+    "attribute": "freeze",
+    "kind": "another"
   },
   {
-	"id": "mai_f",
-	"name": "二子玉 舞",
-	"attribute": "freeze",
-	"kind": "factor"
+    "id": "mai_f",
+    "name": "二子玉 舞",
+    "attribute": "freeze",
+    "kind": "factor"
   },
   {
-	"id": "mai_s",
-	"name": "二子玉 舞",
-	"attribute": "heat",
-	"kind": "stellar"
+    "id": "mai_s",
+    "name": "二子玉 舞",
+    "attribute": "heat",
+    "kind": "stellar"
   },
   {
-	"id": "virginia_n",
-	"name": "バージニア・G",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "virginia_n",
+    "name": "バージニア・G",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "virginia_a",
-	"name": "バージニア・G",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "virginia_a",
+    "name": "バージニア・G",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "virginia_f",
-	"name": "バージニア・G",
-	"attribute": "heat",
-	"kind": "factor"
+    "id": "virginia_f",
+    "name": "バージニア・G",
+    "attribute": "heat",
+    "kind": "factor"
   },
   {
-	"id": "virginia_s",
-	"name": "バージニア・G",
-	"attribute": "freeze",
-	"kind": "stellar"
+    "id": "virginia_s",
+    "name": "バージニア・G",
+    "attribute": "freeze",
+    "kind": "stellar"
   },
   {
-	"id": "fatima_n",
-	"name": "ファティマ・B",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "fatima_n",
+    "name": "ファティマ・B",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "fatima_a",
-	"name": "ファティマ・B",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "fatima_a",
+    "name": "ファティマ・B",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "fatima_f",
-	"name": "ファティマ・B",
-	"attribute": "heat",
-	"kind": "factor"
+    "id": "fatima_f",
+    "name": "ファティマ・B",
+    "attribute": "heat",
+    "kind": "factor"
   },
   {
-	"id": "yumi_n",
-	"name": "四谷 ゆみ",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "yumi_n",
+    "name": "四谷 ゆみ",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "yumi_a",
-	"name": "四谷 ゆみ",
-	"attribute": "gravity",
-	"kind": "another"
+    "id": "yumi_a",
+    "name": "四谷 ゆみ",
+    "attribute": "gravity",
+    "kind": "another"
   },
   {
-	"id": "yumi_s",
-	"name": "四谷 ゆみ",
-	"attribute": "electric",
-	"kind": "stellar"
+    "id": "yumi_s",
+    "name": "四谷 ゆみ",
+    "attribute": "electric",
+    "kind": "stellar"
   },
   {
-	"id": "yayoi_n",
-	"name": "藤野 やよい",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "yayoi_n",
+    "name": "藤野 やよい",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "yayoi_a",
-	"name": "藤野 やよい",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "yayoi_a",
+    "name": "藤野 やよい",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "yayoi_f",
-	"name": "藤野 やよい",
-	"attribute": "heat",
-	"kind": "factor"
+    "id": "yayoi_f",
+    "name": "藤野 やよい",
+    "attribute": "heat",
+    "kind": "factor"
   },
   {
-	"id": "touka_n",
-	"name": "下落合 桃歌",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "touka_n",
+    "name": "下落合 桃歌",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "touka_a",
-	"name": "下落合 桃歌",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "touka_a",
+    "name": "下落合 桃歌",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "touka_f",
-	"name": "下落合 桃歌",
-	"attribute": "electric",
-	"kind": "factor"
+    "id": "touka_f",
+    "name": "下落合 桃歌",
+    "attribute": "electric",
+    "kind": "factor"
   },
   {
-	"id": "shirley_n",
-	"name": "シャーリー・O",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "shirley_n",
+    "name": "シャーリー・O",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "shirley_a",
-	"name": "シャーリー・O",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "shirley_a",
+    "name": "シャーリー・O",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "shirley_s",
-	"name": "シャーリー・O",
-	"attribute": "heat",
-	"kind": "stellar"
+    "id": "shirley_s",
+    "name": "シャーリー・O",
+    "attribute": "heat",
+    "kind": "stellar"
   },
   {
-	"id": "neo_n",
-	"name": "伊戸倉 音緒",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "neo_n",
+    "name": "伊戸倉 音緒",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "neo_a",
-	"name": "伊戸倉 音緒",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "neo_a",
+    "name": "伊戸倉 音緒",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "neo_f",
-	"name": "伊戸倉 音緒",
-	"attribute": "electric",
-	"kind": "factor"
+    "id": "neo_f",
+    "name": "伊戸倉 音緒",
+    "attribute": "electric",
+    "kind": "factor"
   },
   {
-	"id": "eri_n",
-	"name": "依城 えり",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "eri_n",
+    "name": "依城 えり",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "eri_a",
-	"name": "依城 えり",
-	"attribute": "freeze",
-	"kind": "another"
+    "id": "eri_a",
+    "name": "依城 えり",
+    "attribute": "freeze",
+    "kind": "another"
   },
   {
-	"id": "asuka_n",
-	"name": "文島 明日翔",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "asuka_n",
+    "name": "文島 明日翔",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "asuka_a",
-	"name": "文島 明日翔",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "asuka_a",
+    "name": "文島 明日翔",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "koyui_n",
-	"name": "大関 小結",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "koyui_n",
+    "name": "大関 小結",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "koyui_a",
-	"name": "大関 小結",
-	"attribute": "gravity",
-	"kind": "another"
+    "id": "koyui_a",
+    "name": "大関 小結",
+    "attribute": "gravity",
+    "kind": "another"
   },
   {
-	"id": "koyui_s",
-	"name": "大関 小結",
-	"attribute": "electric",
-	"kind": "stellar"
+    "id": "koyui_s",
+    "name": "大関 小結",
+    "attribute": "electric",
+    "kind": "stellar"
   },
   {
-	"id": "anna_n",
-	"name": "宇佐元 杏奈",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "anna_n",
+    "name": "宇佐元 杏奈",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "anna_a",
-	"name": "宇佐元 杏奈",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "anna_a",
+    "name": "宇佐元 杏奈",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "anna_f",
-	"name": "宇佐元 杏奈",
-	"attribute": "electric",
-	"kind": "factor"
+    "id": "anna_f",
+    "name": "宇佐元 杏奈",
+    "attribute": "electric",
+    "kind": "factor"
   },
   {
-	"id": "mari_n",
-	"name": "神宮寺 真理",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "mari_n",
+    "name": "神宮寺 真理",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "mari_a",
-	"name": "神宮寺 真理",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "mari_a",
+    "name": "神宮寺 真理",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "mari_f",
-	"name": "神宮寺 真理",
-	"attribute": "electric",
-	"kind": "factor"
+    "id": "mari_f",
+    "name": "神宮寺 真理",
+    "attribute": "electric",
+    "kind": "factor"
   },
   {
-	"id": "serina_n",
-	"name": "新谷 芹菜",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "serina_n",
+    "name": "新谷 芹菜",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "serina_a",
-	"name": "新谷 芹菜",
-	"attribute": "gravity",
-	"kind": "another"
+    "id": "serina_a",
+    "name": "新谷 芹菜",
+    "attribute": "gravity",
+    "kind": "another"
   },
   {
-	"id": "serina_f",
-	"name": "新谷 芹菜",
-	"attribute": "gravity",
-	"kind": "factor"
+    "id": "serina_f",
+    "name": "新谷 芹菜",
+    "attribute": "gravity",
+    "kind": "factor"
   },
   {
-	"id": "raiya_n",
-	"name": "蛙坂 来弥",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "raiya_n",
+    "name": "蛙坂 来弥",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "raiya_a",
-	"name": "蛙坂 来弥",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "raiya_a",
+    "name": "蛙坂 来弥",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "raiya_f",
-	"name": "蛙坂 来弥",
-	"attribute": "heat",
-	"kind": "factor"
+    "id": "raiya_f",
+    "name": "蛙坂 来弥",
+    "attribute": "heat",
+    "kind": "factor"
   },
   {
-	"id": "misaki_n",
-	"name": "籠目 深沙希",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "misaki_n",
+    "name": "籠目 深沙希",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "misaki_a",
-	"name": "籠目 深沙希",
-	"attribute": "gravity",
-	"kind": "another"
+    "id": "misaki_a",
+    "name": "籠目 深沙希",
+    "attribute": "gravity",
+    "kind": "another"
   },
   {
-	"id": "misaki_f",
-	"name": "籠目 深沙希",
-	"attribute": "gravity",
-	"kind": "factor"
+    "id": "misaki_f",
+    "name": "籠目 深沙希",
+    "attribute": "gravity",
+    "kind": "factor"
   },
   {
-	"id": "chieri_n",
-	"name": "紺堂 地衛理",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "chieri_n",
+    "name": "紺堂 地衛理",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "chieri_a",
-	"name": "紺堂 地衛理",
-	"attribute": "freeze",
-	"kind": "another"
+    "id": "chieri_a",
+    "name": "紺堂 地衛理",
+    "attribute": "freeze",
+    "kind": "another"
   },
   {
-	"id": "chieri_s",
-	"name": "紺堂 地衛理",
-	"attribute": "heat",
-	"kind": "stellar"
+    "id": "chieri_s",
+    "name": "紺堂 地衛理",
+    "attribute": "heat",
+    "kind": "stellar"
   },
   {
-	"id": "shiina_n",
-	"name": "州天頃 椎奈",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "shiina_n",
+    "name": "州天頃 椎奈",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "shiina_a",
-	"name": "州天頃 椎奈",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "shiina_a",
+    "name": "州天頃 椎奈",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "shiina_f",
-	"name": "州天頃 椎奈",
-	"attribute": "electric",
-	"kind": "factor"
+    "id": "shiina_f",
+    "name": "州天頃 椎奈",
+    "attribute": "electric",
+    "kind": "factor"
   },
   {
-	"id": "kanade_n",
-	"name": "仁紀藤 奏",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "kanade_n",
+    "name": "仁紀藤 奏",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "kanade_a",
-	"name": "仁紀藤 奏",
-	"attribute": "gravity",
-	"kind": "another"
+    "id": "kanade_a",
+    "name": "仁紀藤 奏",
+    "attribute": "gravity",
+    "kind": "another"
   },
   {
-	"id": "kanade_f",
-	"name": "仁紀藤 奏",
-	"attribute": "gravity",
-	"kind": "factor"
+    "id": "kanade_f",
+    "name": "仁紀藤 奏",
+    "attribute": "gravity",
+    "kind": "factor"
   },
   {
-	"id": "mira_n",
-	"name": "村尾 未羅",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "mira_n",
+    "name": "村尾 未羅",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "mira_a",
-	"name": "村尾 未羅",
-	"attribute": "gravity",
-	"kind": "another"
+    "id": "mira_a",
+    "name": "村尾 未羅",
+    "attribute": "gravity",
+    "kind": "another"
   },
   {
-	"id": "yui_n",
-	"name": "君影 唯",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "yui_n",
+    "name": "君影 唯",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "yui_a",
-	"name": "君影 唯",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "yui_a",
+    "name": "君影 唯",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "itsuri_n",
-	"name": "須賀 乙莉",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "itsuri_n",
+    "name": "須賀 乙莉",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "itsuri_a",
-	"name": "須賀 乙莉",
-	"attribute": "gravity",
-	"kind": "another"
+    "id": "itsuri_a",
+    "name": "須賀 乙莉",
+    "attribute": "gravity",
+    "kind": "another"
   },
   {
-	"id": "meika_n",
-	"name": "萬場 盟華",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "meika_n",
+    "name": "萬場 盟華",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "meika_a",
-	"name": "萬場 盟華",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "meika_a",
+    "name": "萬場 盟華",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "meika_s",
-	"name": "萬場 盟華",
-	"attribute": "freeze",
-	"kind": "stellar"
+    "id": "meika_s",
+    "name": "萬場 盟華",
+    "attribute": "freeze",
+    "kind": "stellar"
   },
   {
-	"id": "yuuto_n",
-	"name": "九炉鉄 悠都",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "yuuto_n",
+    "name": "九炉鉄 悠都",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "yuuto_a",
-	"name": "九炉鉄 悠都",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "yuuto_a",
+    "name": "九炉鉄 悠都",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "yuuto_s",
-	"name": "九炉鉄 悠都",
-	"attribute": "freeze",
-	"kind": "stellar"
+    "id": "yuuto_s",
+    "name": "九炉鉄 悠都",
+    "attribute": "freeze",
+    "kind": "stellar"
   },
   {
-	"id": "akane_n",
-	"name": "琴村 朱音",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "akane_n",
+    "name": "琴村 朱音",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "akane_a",
-	"name": "琴村 朱音",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "akane_a",
+    "name": "琴村 朱音",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "akane_f",
-	"name": "琴村 朱音",
-	"attribute": "heat",
-	"kind": "factor"
+    "id": "akane_f",
+    "name": "琴村 朱音",
+    "attribute": "heat",
+    "kind": "factor"
   },
   {
-	"id": "amane_n",
-	"name": "琴村 天音",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "amane_n",
+    "name": "琴村 天音",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "amane_a",
-	"name": "琴村 天音",
-	"attribute": "freeze",
-	"kind": "another"
+    "id": "amane_a",
+    "name": "琴村 天音",
+    "attribute": "freeze",
+    "kind": "another"
   },
   {
-	"id": "amane_f",
-	"name": "琴村 天音",
-	"attribute": "freeze",
-	"kind": "factor"
+    "id": "amane_f",
+    "name": "琴村 天音",
+    "attribute": "freeze",
+    "kind": "factor"
   },
   {
-	"id": "shanti_n",
-	"name": "サンティ・R",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "shanti_n",
+    "name": "サンティ・R",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "shanti_a",
-	"name": "サンティ・R",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "shanti_a",
+    "name": "サンティ・R",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "nina_n",
-	"name": "ニーナ・K",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "nina_n",
+    "name": "ニーナ・K",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "nina_a",
-	"name": "ニーナ・K",
-	"attribute": "freeze",
-	"kind": "another"
+    "id": "nina_a",
+    "name": "ニーナ・K",
+    "attribute": "freeze",
+    "kind": "another"
   },
   {
-	"id": "nina_s",
-	"name": "ニーナ・K",
-	"attribute": "heat",
-	"kind": "stellar"
+    "id": "nina_s",
+    "name": "ニーナ・K",
+    "attribute": "heat",
+    "kind": "stellar"
   },
   {
-	"id": "wanfa_n",
-	"name": "王 紅花",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "wanfa_n",
+    "name": "王 紅花",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "wanfa_a",
-	"name": "王 紅花",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "wanfa_a",
+    "name": "王 紅花",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "wanfa_s",
-	"name": "王 紅花",
-	"attribute": "freeze",
-	"kind": "stellar"
+    "id": "wanfa_s",
+    "name": "王 紅花",
+    "attribute": "freeze",
+    "kind": "stellar"
   },
   {
-	"id": "mia_n",
-	"name": "ミア・V",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "mia_n",
+    "name": "ミア・V",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "mia_a",
-	"name": "ミア・V",
-	"attribute": "freeze",
-	"kind": "another"
+    "id": "mia_a",
+    "name": "ミア・V",
+    "attribute": "freeze",
+    "kind": "another"
   },
   {
-	"id": "mia_s",
-	"name": "ミア・V",
-	"attribute": "heat",
-	"kind": "stellar"
+    "id": "mia_s",
+    "name": "ミア・V",
+    "attribute": "heat",
+    "kind": "stellar"
   },
   {
-	"id": "miyuki_n",
-	"name": "千島 美幸",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "miyuki_n",
+    "name": "千島 美幸",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "miyuki_a",
-	"name": "千島 美幸",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "miyuki_a",
+    "name": "千島 美幸",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "chie_n",
-	"name": "東雲 チヱ",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "chie_n",
+    "name": "東雲 チヱ",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "chie_a",
-	"name": "東雲 チヱ",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "chie_a",
+    "name": "東雲 チヱ",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "azusa_n",
-	"name": "御蔵座 梓希",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "azusa_n",
+    "name": "御蔵座 梓希",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "azusa_a",
-	"name": "御蔵座 梓希",
-	"attribute": "freeze",
-	"kind": "another"
+    "id": "azusa_a",
+    "name": "御蔵座 梓希",
+    "attribute": "freeze",
+    "kind": "another"
   },
   {
-	"id": "kaoruko_n",
-	"name": "山野 薫子",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "kaoruko_n",
+    "name": "山野 薫子",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "kaoruko_a",
-	"name": "山野 薫子",
-	"attribute": "gravity",
-	"kind": "another"
+    "id": "kaoruko_a",
+    "name": "山野 薫子",
+    "attribute": "gravity",
+    "kind": "another"
   },
   {
-	"id": "tsukasa_n",
-	"name": "二階堂 司",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "tsukasa_n",
+    "name": "二階堂 司",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "tsukasa_a",
-	"name": "二階堂 司",
-	"attribute": "freeze",
-	"kind": "another"
+    "id": "tsukasa_a",
+    "name": "二階堂 司",
+    "attribute": "freeze",
+    "kind": "another"
   },
   {
-	"id": "mirie_n",
-	"name": "御茶ノ水 美里江",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "mirie_n",
+    "name": "御茶ノ水 美里江",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "mirie_a",
-	"name": "御茶ノ水 美里江",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "mirie_a",
+    "name": "御茶ノ水 美里江",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "kanami_n",
-	"name": "米良渕 花浪",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "kanami_n",
+    "name": "米良渕 花浪",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "kanami_a",
-	"name": "米良渕 花浪",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "kanami_a",
+    "name": "米良渕 花浪",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "edenn_n",
-	"name": "駒添 絵伝",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "edenn_n",
+    "name": "駒添 絵伝",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "edenn_a",
-	"name": "駒添 絵伝",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "edenn_a",
+    "name": "駒添 絵伝",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "rita_n",
-	"name": "リタ・H",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "rita_n",
+    "name": "リタ・H",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "rita_a",
-	"name": "リタ・H",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "rita_a",
+    "name": "リタ・H",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "akino_n",
-	"name": "尾長 晶乃",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "akino_n",
+    "name": "尾長 晶乃",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "akino_a",
-	"name": "尾長 晶乃",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "akino_a",
+    "name": "尾長 晶乃",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "ryuuko_n",
-	"name": "巽 竜子",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "ryuuko_n",
+    "name": "巽 竜子",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "kasumi_n",
-	"name": "鳳 加純",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "kasumi_n",
+    "name": "鳳 加純",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "kei_n",
-	"name": "吾妻 京",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "kei_n",
+    "name": "吾妻 京",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "angelica_n",
-	"name": "アンジェリカ・G",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "angelica_n",
+    "name": "アンジェリカ・G",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "sugumi_n",
-	"name": "金潟 すぐみ",
-	"attribute": "electric",
-	"kind": "normal"
+    "id": "sugumi_n",
+    "name": "金潟 すぐみ",
+    "attribute": "electric",
+    "kind": "normal"
   },
   {
-	"id": "sugumi_a",
-	"name": "金潟 すぐみ",
-	"attribute": "electric",
-	"kind": "another"
+    "id": "sugumi_a",
+    "name": "金潟 すぐみ",
+    "attribute": "electric",
+    "kind": "another"
   },
   {
-	"id": "yasuri_n",
-	"name": "新居目 安里",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "yasuri_n",
+    "name": "新居目 安里",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "yasuri_a",
-	"name": "新居目 安里",
-	"attribute": "gravity",
-	"kind": "another"
+    "id": "yasuri_a",
+    "name": "新居目 安里",
+    "attribute": "gravity",
+    "kind": "another"
   },
   {
-	"id": "aoi_n",
-	"name": "的場 アオイ",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "aoi_n",
+    "name": "的場 アオイ",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "aoi_a",
-	"name": "的場 アオイ",
-	"attribute": "freeze",
-	"kind": "another"
+    "id": "aoi_a",
+    "name": "的場 アオイ",
+    "attribute": "freeze",
+    "kind": "another"
   },
   {
-	"id": "nana_n",
-	"name": "在賀 奈々",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "nana_n",
+    "name": "在賀 奈々",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "nana_a",
-	"name": "在賀 奈々",
-	"attribute": "gravity",
-	"kind": "another"
+    "id": "nana_a",
+    "name": "在賀 奈々",
+    "attribute": "gravity",
+    "kind": "another"
   },
   {
-	"id": "hikari_n",
-	"name": "宮南 ひかり",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "hikari_n",
+    "name": "宮南 ひかり",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "hikari_a",
-	"name": "宮南 ひかり",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "hikari_a",
+    "name": "宮南 ひかり",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "emi_n",
-	"name": "我龍 絵美",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "emi_n",
+    "name": "我龍 絵美",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "emi_a",
-	"name": "我龍 絵美",
-	"attribute": "gravity",
-	"kind": "another"
+    "id": "emi_a",
+    "name": "我龍 絵美",
+    "attribute": "gravity",
+    "kind": "another"
   },
   {
-	"id": "sora_n",
-	"name": "天狐 天",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "sora_n",
+    "name": "天狐 天",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "sora_a",
-	"name": "天狐 天",
-	"attribute": "freeze",
-	"kind": "another"
+    "id": "sora_a",
+    "name": "天狐 天",
+    "attribute": "freeze",
+    "kind": "another"
   },
   {
-	"id": "rika_n",
-	"name": "波佐見 利佳",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "rika_n",
+    "name": "波佐見 利佳",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "rika_a",
-	"name": "波佐見 利佳",
-	"attribute": "gravity",
-	"kind": "another"
+    "id": "rika_a",
+    "name": "波佐見 利佳",
+    "attribute": "gravity",
+    "kind": "another"
   },
   {
-	"id": "moe_n",
-	"name": "春日丘 もえ",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "moe_n",
+    "name": "春日丘 もえ",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "moe_a",
-	"name": "春日丘 もえ",
-	"attribute": "heat",
-	"kind": "another"
+    "id": "moe_a",
+    "name": "春日丘 もえ",
+    "attribute": "heat",
+    "kind": "another"
   },
   {
-	"id": "isami_n",
-	"name": "遊馬 勇",
-	"attribute": "heat",
-	"kind": "normal"
+    "id": "isami_n",
+    "name": "遊馬 勇",
+    "attribute": "heat",
+    "kind": "normal"
   },
   {
-	"id": "adelaide_n",
-	"name": "アデライーデ・B",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "adelaide_n",
+    "name": "アデライーデ・B",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "adelaide_a",
-	"name": "アデライーデ・B",
-	"attribute": "freeze",
-	"kind": "another"
+    "id": "adelaide_a",
+    "name": "アデライーデ・B",
+    "attribute": "freeze",
+    "kind": "another"
   },
   {
-	"id": "ema_n",
-	"name": "エマ・A",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "ema_n",
+    "name": "エマ・A",
+    "attribute": "gravity",
+    "kind": "normal"
   },
   {
-	"id": "nicole_n",
-	"name": "ニコル・F",
-	"attribute": "freeze",
-	"kind": "normal"
+    "id": "nicole_n",
+    "name": "ニコル・F",
+    "attribute": "freeze",
+    "kind": "normal"
   },
   {
-	"id": "noelle_n",
-	"name": "ノエル・F",
-	"attribute": "gravity",
-	"kind": "normal"
+    "id": "noelle_n",
+    "name": "ノエル・F",
+    "attribute": "gravity",
+    "kind": "normal"
   }
 ]
