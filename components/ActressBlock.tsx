@@ -155,7 +155,7 @@ const ActressBox = () => {
 
   return (
     <>
-      <div className="my-4 h-14">
+      <div className="my-6 h-14">
         <p className="text-lg sm:text-xl text-center">
           スカウト率 {percentage}% ( {actressCheckedNum}/{actressNum} )
         </p>
@@ -211,7 +211,7 @@ const ActressBox = () => {
       {filteredActressNum > 0 ? (
         <ActressList />
       ) : (
-        <p className="text-lg text-center">
+        <p className="text-lg text-center my-6">
           フィルター対象のアクトレスがいません
         </p>
       )}

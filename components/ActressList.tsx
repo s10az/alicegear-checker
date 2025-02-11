@@ -22,7 +22,7 @@ const ActressList = () => {
 
   return (
     <>
-      <div className="max-w-[900px] mx-auto my-4 flex flex-wrap justify-center gap-2">
+      <div className="max-w-[900px] mx-auto my-6 flex flex-wrap justify-center gap-2">
         {allActressState.map((actress) => (
           <ActressBox
             key={actress.id}
