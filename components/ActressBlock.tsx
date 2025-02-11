@@ -6,6 +6,7 @@ import { allActressAtom } from "@/atoms";
 import ActressList from "@/components/ActressList";
 import FilterList from "@/components/FilterList";
 import { calcPercentage } from "@/utils/calcPercentage";
+import { RotateCcw } from "lucide-react";
 
 const ActressBox = () => {
   const [allActressState, setAllActressState] =
@@ -73,6 +74,7 @@ const ActressBox = () => {
           disabled={actressCheckedNum > 0 ? false : true}
           title="全アクトレスの選択状態を解除します"
         >
+          <RotateCcw className="w-4 h-4 inline-block align-text-top mr-1" />
           リセット
         </button>
       </div>
