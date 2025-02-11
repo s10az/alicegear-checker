@@ -168,10 +168,10 @@ const ActressBox = () => {
         )}
       </div>
 
-      <div className="flex justify-center gap-4 my-4">
+      <div className="text-sm sm:text-base flex flex-wrap justify-center gap-4 my-4">
         <button
           onClick={handleImport}
-          className="text-sm bg-blue-300 disabled:bg-gray-300 border border-gray-500 rounded px-1 py-1"
+          className="bg-blue-200 disabled:bg-gray-300 border border-gray-500 rounded px-1 py-1"
           title="アクトレスの選択状態のCSVファイルをインポートします"
         >
           <input
@@ -187,7 +187,7 @@ const ActressBox = () => {
 
         <button
           onClick={handleExport}
-          className="text-sm bg-red-300 disabled:bg-gray-300 border border-gray-500 rounded px-1 py-1"
+          className="bg-red-200 disabled:bg-gray-300 border border-gray-500 rounded px-1 py-1"
           disabled={actressCheckedNum > 0 ? false : true}
           title="アクトレスの選択状態をCSVファイルとしてエクスポートします"
         >
@@ -197,7 +197,7 @@ const ActressBox = () => {
 
         <button
           onClick={handleReset}
-          className="text-sm bg-green-300 disabled:bg-gray-300 border border-gray-500 rounded px-1 py-1"
+          className="bg-green-200 disabled:bg-gray-300 border border-gray-500 rounded px-1 py-1"
           disabled={actressCheckedNum > 0 ? false : true}
           title="アクトレスの選択状態を解除します"
         >
