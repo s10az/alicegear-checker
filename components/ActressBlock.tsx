@@ -5,6 +5,7 @@ import { ActressType } from "@/types/actress";
 import { allActressAtom } from "@/atoms";
 import ActressList from "@/components/ActressList";
 import FilterList from "@/components/FilterList";
+import { calcPercentage } from "@/utils/calcPercentage";
 
 const ActressBox = () => {
   const [allActressState, setAllActressState] =
@@ -28,14 +29,42 @@ const ActressBox = () => {
   const actressCheckedNum: number = allActressState.filter(
     (actress) => actress.isChecked,
   ).length;
-  const percentage: number =
-    Math.round((actressCheckedNum / actressNum) * 10000) / 100;
+  const percentage: number = calcPercentage(actressCheckedNum, actressNum);
+
+  const filteredActressNum: number = allActressState.filter(
+    (actress) => !actress.isFiltered,
+  ).length;
+  const filteredActressCheckedNum: number = allActressState.filter(
+    (actress) => {
+      if (!actress.isFiltered && actress.isChecked) {
+        return true;
+      }
+    },
+  ).length;
+  const filteredPercentage: number = calcPercentage(
+    filteredActressCheckedNum,
+    filteredActressNum,
+  );
+
+  let isFilterEnabled: boolean = false;
+  if (filteredActressNum != actressNum) {
+    isFilterEnabled = true;
+  }
 
   return (
     <>
-      <p className="text-lg sm:text-xl text-center my-6">
-        スカウト率 {percentage}% ( {actressCheckedNum}/{actressNum} )
-      </p>
+      <div className="my-4 h-14">
+        <p className="text-lg sm:text-xl text-center">
+          スカウト率 {percentage}% ( {actressCheckedNum}/{actressNum} )
+        </p>
+
+        {isFilterEnabled && (
+          <p className="text-center mt-1">
+            フィルター対象 スカウト率 {filteredPercentage}% ({" "}
+            {filteredActressCheckedNum}/{filteredActressNum} )
+          </p>
+        )}
+      </div>
 
       <div className="flex justify-center my-4">
         <button
@@ -50,7 +79,13 @@ const ActressBox = () => {
 
       <FilterList />
 
-      <ActressList />
+      {filteredActressNum > 0 ? (
+        <ActressList />
+      ) : (
+        <p className="text-lg text-center">
+          フィルター対象のアクトレスがいません
+        </p>
+      )}
     </>
   );
 };
