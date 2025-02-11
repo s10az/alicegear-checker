@@ -4,7 +4,7 @@ import { useEffect } from "react";
 import { useAtom } from "jotai";
 import { ActressType } from "@/types/actress";
 import { filterAtom, allActressAtom } from "@/atoms";
-import { IsActressFiltered } from "@/utils/IsActressFiltered";
+import { isActressFiltered } from "@/utils/isActressFiltered";
 
 const FilterList = () => {
   const [filter, setFilter] = useAtom(filterAtom);
@@ -13,7 +13,7 @@ const FilterList = () => {
   useEffect(() => {
     setAllActressState((prevState) =>
       prevState.map((actress) =>
-        IsActressFiltered(actress, filter)
+        isActressFiltered(actress, filter)
           ? { ...actress, isFiltered: false }
           : { ...actress, isFiltered: true },
       ),

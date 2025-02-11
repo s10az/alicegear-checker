@@ -3,7 +3,6 @@ import ActressData from "@/assets/actress.json";
 import { ActressType } from "@/types/actress";
 import { FilterType } from "@/types/filter";
 import { atomWithStorage } from "jotai/utils";
-import { IsActressFiltered } from "@/utils/IsActressFiltered";
 
 const allActress: ActressType[] = ActressData.map((actress) => {
   return {

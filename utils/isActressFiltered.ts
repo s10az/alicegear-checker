@@ -1,9 +1,8 @@
-import React from "react";
 import { ActressType } from "@/types/actress";
 import { FilterType } from "@/types/filter";
 
 // returns true if actress matches to filter
-export function IsActressFiltered(
+export function isActressFiltered(
   actress: ActressType,
   filter: FilterType,
 ): boolean {
