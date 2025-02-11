@@ -86,7 +86,7 @@ const FilterList = () => {
           ステラー
         </label>
       </div>
-      <div className="flex justify-center gap-1">
+      <div className="flex justify-center gap-2 mt-1">
         <label>
           <input
             type="checkbox"
