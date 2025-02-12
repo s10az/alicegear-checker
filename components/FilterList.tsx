@@ -54,7 +54,7 @@ const FilterList = () => {
             type="checkbox"
             checked={filter.normal}
             onChange={toggleNormal}
-            className="w-4 h-4 accent-gray-500 mr-1"
+            className="w-4 h-4 accent-gray-500 align-text-top mr-1"
           />
           ノーマル
         </label>
@@ -63,7 +63,7 @@ const FilterList = () => {
             type="checkbox"
             checked={filter.another}
             onChange={toggleAnother}
-            className="w-4 h-4 accent-gray-500 mr-1"
+            className="w-4 h-4 accent-gray-500 align-text-top mr-1"
           />
           アナザー
         </label>
@@ -72,7 +72,7 @@ const FilterList = () => {
             type="checkbox"
             checked={filter.factor}
             onChange={toggleFactor}
-            className="w-4 h-4 accent-gray-500 mr-1"
+            className="w-4 h-4 accent-gray-500 align-text-top mr-1"
           />
           ファクター
         </label>
@@ -81,7 +81,7 @@ const FilterList = () => {
             type="checkbox"
             checked={filter.stellar}
             onChange={toggleStellar}
-            className="w-4 h-4 accent-gray-500 mr-1"
+            className="w-4 h-4 accent-gray-500 align-text-top mr-1"
           />
           ステラー
         </label>
@@ -92,7 +92,7 @@ const FilterList = () => {
             type="checkbox"
             checked={filter.electric}
             onChange={toggleElectric}
-            className="w-4 h-4 accent-yellow-500 mr-1"
+            className="w-4 h-4 accent-yellow-500 align-text-top mr-1"
           />
           電撃
         </label>
@@ -101,7 +101,7 @@ const FilterList = () => {
             type="checkbox"
             checked={filter.gravity}
             onChange={toggleGravity}
-            className="w-4 h-4 accent-purple-500 mr-1"
+            className="w-4 h-4 accent-purple-500 align-text-top mr-1"
           />
           重力
         </label>
@@ -110,7 +110,7 @@ const FilterList = () => {
             type="checkbox"
             checked={filter.heat}
             onChange={toggleHeat}
-            className="w-4 h-4 accent-red-500 mr-1"
+            className="w-4 h-4 accent-red-500 align-text-top mr-1"
           />
           焼夷
         </label>
@@ -119,7 +119,7 @@ const FilterList = () => {
             type="checkbox"
             checked={filter.freeze}
             onChange={toggleFreeze}
-            className="w-4 h-4 accent-blue-500 mr-1"
+            className="w-4 h-4 accent-blue-500 align-text-top mr-1"
           />
           冷撃
         </label>
