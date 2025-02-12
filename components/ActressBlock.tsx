@@ -155,13 +155,13 @@ const ActressBox = () => {
 
   return (
     <>
-      <div className="my-6 h-14">
-        <p className="text-lg sm:text-xl text-center">
+      <div className="flex flex-col justify-center text-center my-6 h-14">
+        <p className="text-lg sm:text-xl">
           スカウト率 {percentage}% ( {actressCheckedNum}/{actressNum} )
         </p>
 
         {isFilterEnabled && (
-          <p className="text-center mt-1">
+          <p>
             フィルター対象 スカウト率 {filteredPercentage}% ({" "}
             {filteredActressCheckedNum}/{filteredActressNum} )
           </p>
