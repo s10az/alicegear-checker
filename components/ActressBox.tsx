@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { ActressType } from "@/types/actress";
 
 interface ActressBoxProps {
@@ -44,10 +43,8 @@ const ActressBox = ({ actress, onClick }: ActressBoxProps) => {
       onClick={onClickHandler}
     >
       <div className="flex flex-col justify-end h-full">
-        <Image
+        <img
           src={imageFile}
-          width={80}
-          height={120}
           alt={name}
           className={`w-[60px] h-[90px] sm:w-[80px] sm:h-[120px] m-auto ${actress.isChecked ? "opacity-100" : "opacity-50"}`}
         />
