@@ -26,7 +26,7 @@ const ActressBox = ({ actress, onClick }: ActressBoxProps) => {
     onClick(actress.id);
   };
 
-  const imageFile: string = "/actress/" + actress.id + ".jpg";
+  const imageFile: string = "./actress/" + actress.id + ".jpg";
 
   let name: string = actress.name;
 
