@@ -1,5 +1,5 @@
 import { atom } from "jotai";
-import ActressData from "@/assets/actress.json";
+import ActressData from "@/actress.json";
 import { ActressType } from "@/types/actress";
 import { FilterType } from "@/types/filter";
 import { atomWithStorage } from "jotai/utils";
