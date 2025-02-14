@@ -1,6 +1,6 @@
-# alicegear-checker
+# [alicegear-checker](https://s10az.github.io/alicegear-checker/)
 
-アリス・ギア・アイギス スカウト率チェッカー
+アリス・ギア・アイギスのスカウト率チェッカーアプリ
 
 ## Development
 
@@ -11,7 +11,7 @@ pnpm dev
 
 ## Acknowledgement
 
-画像の著作権は提供元に帰属します。
+画像の著作権は利権者に帰属します。
 
 ## License
 
