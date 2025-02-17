@@ -1,4 +1,5 @@
 import ActressBlock from "@/components/ActressBlock";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -9,6 +10,8 @@ export default function Home() {
       </h1>
 
       <ActressBlock />
+
+      <Footer />
     </main>
   );
 }
