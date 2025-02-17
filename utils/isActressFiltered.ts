@@ -6,36 +6,36 @@ export function isActressFiltered(
   actress: ActressType,
   filter: FilterType,
 ): boolean {
-  let isKindTrue: boolean = false;
-  let isAttributeTrue: boolean = false;
+  let isKindMatching: boolean = false;
+  let isAttributeMatching: boolean = false;
 
   if (filter.normal && actress.kind == "normal") {
-    isKindTrue = true;
+    isKindMatching = true;
   }
   if (filter.another && actress.kind == "another") {
-    isKindTrue = true;
+    isKindMatching = true;
   }
   if (filter.factor && actress.kind == "factor") {
-    isKindTrue = true;
+    isKindMatching = true;
   }
   if (filter.stellar && actress.kind == "stellar") {
-    isKindTrue = true;
+    isKindMatching = true;
   }
 
   if (filter.electric && actress.attribute == "electric") {
-    isAttributeTrue = true;
+    isAttributeMatching = true;
   }
   if (filter.gravity && actress.attribute == "gravity") {
-    isAttributeTrue = true;
+    isAttributeMatching = true;
   }
   if (filter.heat && actress.attribute == "heat") {
-    isAttributeTrue = true;
+    isAttributeMatching = true;
   }
   if (filter.freeze && actress.attribute == "freeze") {
-    isAttributeTrue = true;
+    isAttributeMatching = true;
   }
 
-  if (isKindTrue && isAttributeTrue) {
+  if (isKindMatching && isAttributeMatching) {
     return true;
   }
 

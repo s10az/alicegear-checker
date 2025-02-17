@@ -20,32 +20,6 @@ const FilterList = () => {
     );
   }, [filter, setAllActressState]);
 
-  const toggleNormal = () => {
-    setFilter({ ...filter, normal: !filter.normal });
-  };
-  const toggleAnother = () => {
-    setFilter({ ...filter, another: !filter.another });
-  };
-  const toggleFactor = () => {
-    setFilter({ ...filter, factor: !filter.factor });
-  };
-  const toggleStellar = () => {
-    setFilter({ ...filter, stellar: !filter.stellar });
-  };
-
-  const toggleElectric = () => {
-    setFilter({ ...filter, electric: !filter.electric });
-  };
-  const toggleGravity = () => {
-    setFilter({ ...filter, gravity: !filter.gravity });
-  };
-  const toggleHeat = () => {
-    setFilter({ ...filter, heat: !filter.heat });
-  };
-  const toggleFreeze = () => {
-    setFilter({ ...filter, freeze: !filter.freeze });
-  };
-
   return (
     <div className="text-sm sm:text-base my-4">
       <div className="flex flex-wrap justify-center gap-2">
@@ -53,7 +27,9 @@ const FilterList = () => {
           <input
             type="checkbox"
             checked={filter.normal}
-            onChange={toggleNormal}
+            onChange={() => {
+              setFilter({ ...filter, normal: !filter.normal });
+            }}
             className="w-4 h-4 accent-gray-500 align-text-top mr-1"
           />
           ノーマル
@@ -62,7 +38,9 @@ const FilterList = () => {
           <input
             type="checkbox"
             checked={filter.another}
-            onChange={toggleAnother}
+            onChange={() => {
+              setFilter({ ...filter, another: !filter.another });
+            }}
             className="w-4 h-4 accent-gray-500 align-text-top mr-1"
           />
           アナザー
@@ -71,7 +49,9 @@ const FilterList = () => {
           <input
             type="checkbox"
             checked={filter.factor}
-            onChange={toggleFactor}
+            onChange={() => {
+              setFilter({ ...filter, factor: !filter.factor });
+            }}
             className="w-4 h-4 accent-gray-500 align-text-top mr-1"
           />
           ファクター
@@ -80,7 +60,9 @@ const FilterList = () => {
           <input
             type="checkbox"
             checked={filter.stellar}
-            onChange={toggleStellar}
+            onChange={() => {
+              setFilter({ ...filter, stellar: !filter.stellar });
+            }}
             className="w-4 h-4 accent-gray-500 align-text-top mr-1"
           />
           ステラー
@@ -91,7 +73,9 @@ const FilterList = () => {
           <input
             type="checkbox"
             checked={filter.electric}
-            onChange={toggleElectric}
+            onChange={() => {
+              setFilter({ ...filter, electric: !filter.electric });
+            }}
             className="w-4 h-4 accent-yellow-500 align-text-top mr-1"
           />
           電撃
@@ -100,7 +84,9 @@ const FilterList = () => {
           <input
             type="checkbox"
             checked={filter.gravity}
-            onChange={toggleGravity}
+            onChange={() => {
+              setFilter({ ...filter, gravity: !filter.gravity });
+            }}
             className="w-4 h-4 accent-purple-500 align-text-top mr-1"
           />
           重力
@@ -109,7 +95,9 @@ const FilterList = () => {
           <input
             type="checkbox"
             checked={filter.heat}
-            onChange={toggleHeat}
+            onChange={() => {
+              setFilter({ ...filter, heat: !filter.heat });
+            }}
             className="w-4 h-4 accent-red-500 align-text-top mr-1"
           />
           焼夷
@@ -118,7 +106,9 @@ const FilterList = () => {
           <input
             type="checkbox"
             checked={filter.freeze}
-            onChange={toggleFreeze}
+            onChange={() => {
+              setFilter({ ...filter, freeze: !filter.freeze });
+            }}
             className="w-4 h-4 accent-blue-500 align-text-top mr-1"
           />
           冷撃
