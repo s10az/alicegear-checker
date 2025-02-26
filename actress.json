@@ -945,6 +945,13 @@
     "image": true
   },
   {
+    "id": "ryuuko_a",
+    "name": "巽 竜子",
+    "attribute": "gravity",
+    "kind": "another",
+    "image": true
+  },
+  {
     "id": "kasumi_n",
     "name": "鳳 加純",
     "attribute": "heat",
