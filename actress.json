@@ -980,6 +980,13 @@
     "image": true
   },
   {
+    "id": "sugumi_f",
+    "name": "金潟 すぐみ",
+    "attribute": "electric",
+    "kind": "factor",
+    "image": true
+  },
+  {
     "id": "yasuri_n",
     "name": "新居目 安里",
     "attribute": "gravity",
@@ -992,6 +999,13 @@
     "attribute": "gravity",
     "kind": "another",
     "image": true
+  },
+  {
+    "id": "yasuri_f",
+    "name": "新居目 安里",
+    "attribute": "gravity",
+    "kind": "factor",
+    "image": false
   },
   {
     "id": "aoi_n",
