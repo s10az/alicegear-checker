@@ -3,6 +3,7 @@ export type ActressType = {
   name: string;
   attribute: string;
   kind: string;
+  image: boolean;
   isChecked: boolean;
   isFiltered: boolean;
 };
