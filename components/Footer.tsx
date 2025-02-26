@@ -1,4 +1,5 @@
 import { Github } from "lucide-react";
+import { lastUpdated } from "@/globals";
 
 const Footer = () => {
   return (
@@ -11,6 +12,8 @@ const Footer = () => {
         >
           ソースコード
         </a>
+        <br />
+        最終更新日:{lastUpdated}
       </p>
     </>
   );
