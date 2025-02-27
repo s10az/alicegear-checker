@@ -700,6 +700,13 @@
     "image": true
   },
   {
+    "id": "akane_s",
+    "name": "琴村 朱音",
+    "attribute": "freeze",
+    "kind": "stellar",
+    "image": true
+  },
+  {
     "id": "amane_n",
     "name": "琴村 天音",
     "attribute": "freeze",
@@ -718,6 +725,13 @@
     "name": "琴村 天音",
     "attribute": "freeze",
     "kind": "factor",
+    "image": true
+  },
+  {
+    "id": "amane_s",
+    "name": "琴村 天音",
+    "attribute": "heat",
+    "kind": "stellar",
     "image": true
   },
   {
