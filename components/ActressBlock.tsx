@@ -12,7 +12,7 @@ import { format } from "date-fns";
 
 const signature: string = "# Exported by alicegear-checker";
 
-const ActressBox = () => {
+const ActressBlock = () => {
   const [allActressState, setAllActressState] =
     useAtom<ActressType[]>(allActressAtom);
 
@@ -217,4 +217,4 @@ const ActressBox = () => {
   );
 };
 
-export default ActressBox;
+export default ActressBlock;
