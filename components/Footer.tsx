@@ -13,7 +13,10 @@ const Footer = () => {
           ソースコード
         </a>
         <br />
-        最終更新日:{lastUpdated}
+        最終更新日:
+        <time dateTime={`${lastUpdated.replaceAll("/", "-")}`}>
+          {lastUpdated}
+        </time>
       </p>
     </>
   );
