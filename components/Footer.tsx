@@ -1,9 +1,15 @@
-import { Github } from "lucide-react";
+import { Github, ChevronUp } from "lucide-react";
 import { lastUpdated } from "@/globals";
 
 const Footer = () => {
   return (
     <>
+      <p className="text-center my-4">
+        <a href="#">
+          <ChevronUp className="w-6 h-6 inline-block" />
+        </a>
+      </p>
+
       <p className="text-center my-4">
         <Github className="w-4 h-4 inline-block align-text-bottom mr-1" />
         <a
