@@ -868,6 +868,13 @@
     "image": true
   },
   {
+    "id": "kaoruko_s",
+    "name": "山野 薫子",
+    "attribute": "electric",
+    "kind": "stellar",
+    "image": false
+  },
+  {
     "id": "tsukasa_n",
     "name": "二階堂 司",
     "attribute": "freeze",
