@@ -315,6 +315,13 @@
     "image": true
   },
   {
+    "id": "yayoi_s",
+    "name": "藤野 やよい",
+    "attribute": "freeze",
+    "kind": "stellar",
+    "image": false
+  },
+  {
     "id": "touka_n",
     "name": "下落合 桃歌",
     "attribute": "electric",
@@ -334,6 +341,13 @@
     "attribute": "electric",
     "kind": "factor",
     "image": true
+  },
+  {
+    "id": "touka_s",
+    "name": "下落合 桃歌",
+    "attribute": "gravity",
+    "kind": "stellar",
+    "image": false
   },
   {
     "id": "shirley_n",
