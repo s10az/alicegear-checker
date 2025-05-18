@@ -11,6 +11,9 @@ const Footer = () => {
       </p>
 
       <p className="text-center my-4">
+        最終更新日:
+        <time dateTime={lastUpdated}>{lastUpdated}</time>
+        <br />
         <Github className="w-4 h-4 inline-block align-text-bottom mr-1" />
         <a
           href="https://github.com/s10az/alicegear-checker/"
@@ -18,11 +21,6 @@ const Footer = () => {
         >
           ソースコード
         </a>
-        <br />
-        最終更新日:
-        <time dateTime={`${lastUpdated.replaceAll("/", "-")}`}>
-          {lastUpdated}
-        </time>
       </p>
     </>
   );
