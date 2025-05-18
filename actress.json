@@ -994,6 +994,13 @@
     "image": true
   },
   {
+    "id": "kasumi_a",
+    "name": "鳳 加純",
+    "attribute": "heat",
+    "kind": "another",
+    "image": false
+  },
+  {
     "id": "kei_n",
     "name": "吾妻 京",
     "attribute": "gravity",
