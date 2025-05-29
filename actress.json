@@ -623,6 +623,13 @@
     "image": true
   },
   {
+    "id": "mira_f",
+    "name": "村尾 未羅",
+    "attribute": "gravity",
+    "kind": "factor",
+    "image": true
+  },
+  {
     "id": "yui_n",
     "name": "君影 唯",
     "attribute": "electric",
@@ -635,6 +642,13 @@
     "attribute": "electric",
     "kind": "another",
     "image": true
+  },
+  {
+    "id": "yui_f",
+    "name": "君影 唯",
+    "attribute": "electric",
+    "kind": "factor",
+    "image": false
   },
   {
     "id": "itsuri_n",
