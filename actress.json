@@ -931,6 +931,13 @@
     "image": true
   },
   {
+    "id": "mirie_s",
+    "name": "御茶ノ水 美里江",
+    "attribute": "gravity",
+    "kind": "stellar",
+    "image": false
+  },
+  {
     "id": "kanami_n",
     "name": "米良渕 花浪",
     "attribute": "heat",
