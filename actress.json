@@ -1029,6 +1029,13 @@
     "image": true
   },
   {
+    "id": "kei_a",
+    "name": "吾妻 京",
+    "attribute": "gravity",
+    "kind": "another",
+    "image": false
+  },
+  {
     "id": "angelica_n",
     "name": "アンジェリカ・G",
     "attribute": "freeze",
