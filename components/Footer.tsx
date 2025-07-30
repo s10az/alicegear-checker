@@ -12,7 +12,7 @@ const Footer = () => {
 
       <p className="text-center my-4">
         最終更新日:
-        <time dateTime={lastUpdated}>{lastUpdated}</time>
+        <time dateTime={lastUpdated}>{lastUpdated.replaceAll("-", "/")}</time>
         <br />
         <Github className="w-4 h-4 inline-block align-text-bottom mr-1" />
         <a
