@@ -1223,5 +1223,19 @@
     "attribute": "gravity",
     "kind": "normal",
     "image": true
+  },
+  {
+    "id": "neri_n",
+    "name": "叶屋 寧里",
+    "attribute": "electric",
+    "kind": "normal",
+    "image": true
+  },
+  {
+    "id": "neri_a",
+    "name": "叶屋 寧里",
+    "attribute": "electric",
+    "kind": "another",
+    "image": true
   }
 ]
