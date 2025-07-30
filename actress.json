@@ -319,7 +319,7 @@
     "name": "藤野 やよい",
     "attribute": "freeze",
     "kind": "stellar",
-    "image": false
+    "image": true
   },
   {
     "id": "touka_n",
@@ -347,7 +347,7 @@
     "name": "下落合 桃歌",
     "attribute": "gravity",
     "kind": "stellar",
-    "image": false
+    "image": true
   },
   {
     "id": "shirley_n",
@@ -648,7 +648,7 @@
     "name": "君影 唯",
     "attribute": "electric",
     "kind": "factor",
-    "image": false
+    "image": true
   },
   {
     "id": "itsuri_n",
@@ -900,7 +900,7 @@
     "name": "山野 薫子",
     "attribute": "electric",
     "kind": "stellar",
-    "image": false
+    "image": true
   },
   {
     "id": "tsukasa_n",
@@ -1019,7 +1019,7 @@
     "name": "鳳 加純",
     "attribute": "heat",
     "kind": "another",
-    "image": false
+    "image": true
   },
   {
     "id": "kei_n",
@@ -1033,7 +1033,7 @@
     "name": "吾妻 京",
     "attribute": "gravity",
     "kind": "another",
-    "image": false
+    "image": true
   },
   {
     "id": "angelica_n",
