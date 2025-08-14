@@ -105,6 +105,13 @@
     "image": true
   },
   {
+    "id": "rin_s",
+    "name": "日向 リン",
+    "attribute": "freeze",
+    "kind": "stellar",
+    "image": false
+  },
+  {
     "id": "rei_n",
     "name": "小鳥遊 怜",
     "attribute": "freeze",
