@@ -1103,7 +1103,7 @@
     "name": "新居目 安里",
     "attribute": "gravity",
     "kind": "factor",
-    "image": false
+    "image": true
   },
   {
     "id": "aoi_n",
