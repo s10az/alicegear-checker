@@ -23,13 +23,15 @@ const ActressList = () => {
   return (
     <>
       <div className="max-w-[900px] mx-auto my-6 flex flex-wrap justify-center gap-2">
-        {allActressState.map((actress) => (
-          <ActressBox
-            key={actress.id}
-            actress={actress}
-            onClick={handleToggleCheck}
-          />
-        ))}
+        {allActressState
+          .filter((actress) => !actress.isFiltered)
+          .map((actress) => (
+            <ActressBox
+              key={actress.id}
+              actress={actress}
+              onClick={handleToggleCheck}
+            />
+          ))}
       </div>
     </>
   );

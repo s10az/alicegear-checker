@@ -39,7 +39,7 @@ const ActressBox = ({ actress, onClick }: ActressBoxProps) => {
 
   return (
     <div
-      className={`border border-gray-500 rounded-md w-[110px] h-[110px] sm:w-[150px] sm:h-[150px] ${actress.isChecked ? "bg-cyan-100" : "bg-gray-100"} ${actress.isFiltered && "hidden"}`}
+      className={`border border-gray-500 rounded-md w-[110px] h-[110px] sm:w-[150px] sm:h-[150px] ${actress.isChecked ? "bg-cyan-100" : "bg-gray-100"}`}
       onClick={onClickHandler}
     >
       <div className="flex flex-col">
