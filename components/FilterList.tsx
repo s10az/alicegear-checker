@@ -12,10 +12,11 @@ const FilterList = () => {
 
   useEffect(() => {
     setAllActressState((prevState) =>
-      prevState.map((actress) => ({
-        ...actress,
-        isFiltered: !isActressFiltered(actress, filter),
-      })),
+      prevState.map((actress) =>
+        isActressFiltered(actress, filter)
+          ? { ...actress, isFiltered: false }
+          : { ...actress, isFiltered: true },
+      ),
     );
   }, [filter, setAllActressState]);
 

@@ -14,12 +14,12 @@ const allActress: ActressType[] = ActressData.map((actress) => {
 export const allActressAtom = atom<ActressType[]>(allActress);
 
 export const filterAtom = atom<FilterType>({
-  normal: false,
-  another: false,
-  factor: false,
-  stellar: false,
-  electric: false,
-  gravity: false,
-  heat: false,
-  freeze: false,
+  normal: true,
+  another: true,
+  factor: true,
+  stellar: true,
+  electric: true,
+  gravity: true,
+  heat: true,
+  freeze: true,
 });
