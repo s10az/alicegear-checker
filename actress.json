@@ -1225,6 +1225,13 @@
     "image": true
   },
   {
+    "id": "adelaide_s",
+    "name": "アデライーデ・B",
+    "attribute": "heat",
+    "kind": "stellar",
+    "image": true
+  },
+  {
     "id": "ema_n",
     "name": "エマ・A",
     "attribute": "gravity",
