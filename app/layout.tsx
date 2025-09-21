@@ -19,7 +19,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ja">
-      <body className={`${bizUdGothic.className} antialiased text-black`}>
+      <body
+        className={`${bizUdGothic.className} antialiased text-black dark:text-white dark:bg-stone-900`}
+      >
         {children}
       </body>
     </html>

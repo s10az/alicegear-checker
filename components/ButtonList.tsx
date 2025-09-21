@@ -127,7 +127,7 @@ const ButtonList = () => {
 
   return (
     <>
-      <div className="text-sm sm:text-base flex flex-wrap justify-center gap-4 my-4">
+      <div className="text-sm sm:text-base dark:text-black flex flex-wrap justify-center gap-4 my-4">
         <button
           onClick={handleImport}
           className="bg-blue-300 disabled:bg-gray-300 border border-gray-500 rounded px-1 py-1"
