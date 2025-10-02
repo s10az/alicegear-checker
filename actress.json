@@ -1251,5 +1251,12 @@
     "attribute": "gravity",
     "kind": "normal",
     "image": true
+  },
+  {
+    "id": "riri_n",
+    "name": "リリ・S",
+    "attribute": "heat",
+    "kind": "normal",
+    "image": false
   }
 ]
