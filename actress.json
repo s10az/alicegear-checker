@@ -532,6 +532,13 @@
     "image": true
   },
   {
+    "id": "raiya_s",
+    "name": "蛙坂 来弥",
+    "attribute": "freeze",
+    "kind": "stellar",
+    "image": false
+  },
+  {
     "id": "misaki_n",
     "name": "籠目 深沙希",
     "attribute": "gravity",
