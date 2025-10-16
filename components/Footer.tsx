@@ -1,7 +1,8 @@
 import { Github, ChevronUp } from "lucide-react";
-import { lastUpdated } from "@/globals";
 
 const Footer = () => {
+  const lastUpdated: string = process.env.LAST_UPDATED!;
+
   return (
     <>
       <p className="text-center my-4">
