@@ -1239,6 +1239,13 @@
     "image": true
   },
   {
+    "id": "riri_n",
+    "name": "リリ・S",
+    "attribute": "heat",
+    "kind": "normal",
+    "image": false
+  },
+  {
     "id": "ema_n",
     "name": "エマ・A",
     "attribute": "gravity",
@@ -1258,12 +1265,5 @@
     "attribute": "gravity",
     "kind": "normal",
     "image": true
-  },
-  {
-    "id": "riri_n",
-    "name": "リリ・S",
-    "attribute": "heat",
-    "kind": "normal",
-    "image": false
   }
 ]
