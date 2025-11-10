@@ -1,7 +1,7 @@
 import { Github, ChevronUp } from "lucide-react";
 
 const Footer = () => {
-  const lastUpdated: string = process.env.LAST_UPDATED!;
+  const lastUpdated: string = process.env.LAST_UPDATED ?? "";
 
   return (
     <>
