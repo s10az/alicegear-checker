@@ -5,6 +5,7 @@
 ## Development
 
 ```bash
+echo "LAST_UPDATED=$(date +%Y-%m-%d)" > .env
 pnpm install
 pnpm dev
 ```
