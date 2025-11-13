@@ -203,6 +203,13 @@
     "image": true
   },
   {
+    "id": "mutsumi_s",
+    "name": "小芦 睦海",
+    "attribute": "heat",
+    "kind": "stellar",
+    "image": false
+  },
+  {
     "id": "mai_n",
     "name": "二子玉 舞",
     "attribute": "freeze",
