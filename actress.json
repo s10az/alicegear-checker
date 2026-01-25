@@ -973,6 +973,13 @@
     "image": true
   },
   {
+    "id": "kanami_f",
+    "name": "米良渕 花浪",
+    "attribute": "heat",
+    "kind": "factor",
+    "image": true
+  },
+  {
     "id": "edenn_n",
     "name": "駒添 絵伝",
     "attribute": "heat",
@@ -984,6 +991,13 @@
     "name": "駒添 絵伝",
     "attribute": "heat",
     "kind": "another",
+    "image": true
+  },
+  {
+    "id": "edenn_f",
+    "name": "駒添 絵伝",
+    "attribute": "heat",
+    "kind": "factor",
     "image": true
   },
   {
