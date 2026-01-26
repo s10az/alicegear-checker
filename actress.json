@@ -207,7 +207,7 @@
     "name": "小芦 睦海",
     "attribute": "heat",
     "kind": "stellar",
-    "image": false
+    "image": true
   },
   {
     "id": "mai_n",
@@ -956,7 +956,7 @@
     "name": "御茶ノ水 美里江",
     "attribute": "gravity",
     "kind": "stellar",
-    "image": false
+    "image": true
   },
   {
     "id": "kanami_n",
@@ -1264,7 +1264,7 @@
     "name": "リリ・S",
     "attribute": "heat",
     "kind": "normal",
-    "image": false
+    "image": true
   },
   {
     "id": "ema_n",
