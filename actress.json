@@ -798,6 +798,13 @@
     "image": true
   },
   {
+    "id": "shanti_s",
+    "name": "サンティ・R",
+    "attribute": "gravity",
+    "kind": "stellar",
+    "image": false
+  },
+  {
     "id": "nina_n",
     "name": "ニーナ・K",
     "attribute": "freeze",
