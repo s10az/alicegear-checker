@@ -42,6 +42,13 @@
     "image": true
   },
   {
+    "id": "shitara_s",
+    "name": "兼志谷 シタラ",
+    "attribute": "electric",
+    "kind": "stellar",
+    "image": false
+  },
+  {
     "id": "fumika_n",
     "name": "百科 文嘉",
     "attribute": "freeze",
@@ -61,6 +68,13 @@
     "attribute": "freeze",
     "kind": "factor",
     "image": true
+  },
+  {
+    "id": "fumika_s",
+    "name": "百科 文嘉",
+    "attribute": "heat",
+    "kind": "stellar",
+    "image": false
   },
   {
     "id": "kaede_n",
