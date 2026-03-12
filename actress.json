@@ -196,6 +196,13 @@
     "image": true
   },
   {
+    "id": "aika_s",
+    "name": "相河 愛花",
+    "attribute": "gravity",
+    "kind": "stellar",
+    "image": false
+  },
+  {
     "id": "mutsumi_n",
     "name": "小芦 睦海",
     "attribute": "freeze",
