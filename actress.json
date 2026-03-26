@@ -1309,10 +1309,24 @@
     "image": true
   },
   {
+    "id": "nicole_a",
+    "name": "ニコル・F",
+    "attribute": "freeze",
+    "kind": "another",
+    "image": false
+  },
+  {
     "id": "noelle_n",
     "name": "ノエル・F",
     "attribute": "gravity",
     "kind": "normal",
     "image": true
+  },
+  {
+    "id": "noelle_a",
+    "name": "ノエル・F",
+    "attribute": "gravity",
+    "kind": "another",
+    "image": false
   }
 ]
