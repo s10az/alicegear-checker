@@ -140,7 +140,7 @@ const ButtonList = () => {
             type="file"
             accept="text/csv"
           ></input>
-          <Upload className="w-4 h-4 inline-block align-text-top mr-1" />
+          <Download className="w-4 h-4 inline-block align-text-top mr-1" />
           インポート
         </button>
 
@@ -150,7 +150,7 @@ const ButtonList = () => {
           disabled={actressCheckedNum > 0 ? false : true}
           title="アクトレスの選択状態をCSVファイルとしてエクスポートします"
         >
-          <Download className="w-4 h-4 inline-block align-text-top mr-1" />
+          <Upload className="w-4 h-4 inline-block align-text-top mr-1" />
           エクスポート
         </button>
 
