@@ -707,6 +707,13 @@
     "image": true
   },
   {
+    "id": "itsuri_s",
+    "name": "須賀 乙莉",
+    "attribute": "electric",
+    "kind": "stellar",
+    "image": false
+  },
+  {
     "id": "meika_n",
     "name": "萬場 盟華",
     "attribute": "heat",
