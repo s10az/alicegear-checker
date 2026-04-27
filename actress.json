@@ -231,6 +231,13 @@
     "image": true
   },
   {
+    "id": "yumemi_n",
+    "name": "須賀 由芽美",
+    "attribute": "freeze",
+    "kind": "normal",
+    "image": false
+  },
+  {
     "id": "mai_n",
     "name": "二子玉 舞",
     "attribute": "freeze",
