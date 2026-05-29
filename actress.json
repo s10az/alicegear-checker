@@ -235,7 +235,7 @@
     "name": "須賀 由芽美",
     "attribute": "freeze",
     "kind": "normal",
-    "image": false
+    "image": true
   },
   {
     "id": "mai_n",
@@ -732,7 +732,7 @@
     "name": "須賀 乙莉",
     "attribute": "electric",
     "kind": "stellar",
-    "image": false
+    "image": true
   },
   {
     "id": "meika_n",
@@ -1355,6 +1355,6 @@
     "name": "ノエル・F",
     "attribute": "gravity",
     "kind": "another",
-    "image": false
+    "image": true
   }
 ]
