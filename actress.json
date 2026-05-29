@@ -637,6 +637,13 @@
     "image": true
   },
   {
+    "id": "shiina_s",
+    "name": "州天頃 椎奈",
+    "attribute": "gravity",
+    "kind": "stellar",
+    "image": false
+  },
+  {
     "id": "kanade_n",
     "name": "仁紀藤 奏",
     "attribute": "gravity",
@@ -656,6 +663,13 @@
     "attribute": "gravity",
     "kind": "factor",
     "image": true
+  },
+  {
+    "id": "kanade_s",
+    "name": "仁紀藤 奏",
+    "attribute": "electric",
+    "kind": "stellar",
+    "image": false
   },
   {
     "id": "mira_n",
