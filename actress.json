@@ -1316,6 +1316,20 @@
     "image": true
   },
   {
+    "id": "vesper_n",
+    "name": "ヴェスパー・D",
+    "attribute": "freeze",
+    "kind": "normal",
+    "image": false
+  },
+  {
+    "id": "vesper_s",
+    "name": "ヴェスパー・D",
+    "attribute": "heat",
+    "kind": "stellar",
+    "image": false
+  },
+  {
     "id": "riri_n",
     "name": "リリ・S",
     "attribute": "heat",
