@@ -1127,6 +1127,13 @@
     "image": true
   },
   {
+    "id": "kasumi_a2",
+    "name": "鳳 加純",
+    "attribute": "heat",
+    "kind": "another",
+    "image": false
+  },
+  {
     "id": "kei_n",
     "name": "吾妻 京",
     "attribute": "gravity",
@@ -1139,6 +1146,13 @@
     "attribute": "gravity",
     "kind": "another",
     "image": true
+  },
+  {
+    "id": "kei_a2",
+    "name": "吾妻 京",
+    "attribute": "gravity",
+    "kind": "another",
+    "image": false
   },
   {
     "id": "angelica_n",
