@@ -29,16 +29,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Setup .env file
         run: echo "LAST_UPDATED=$(date +%Y-%m-%d)" > .env
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/setup@v1
         with:
-          version: 9
-      - uses: actions/setup-node@v7
-        with:
-          node-version: "24"
-          cache: pnpm
+          version: 11
+          cache: true
       - uses: actions/configure-pages@v5
         with:
           # Automatically inject basePath in your Next.js configuration file and disable
