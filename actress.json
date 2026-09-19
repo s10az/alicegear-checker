@@ -641,7 +641,7 @@
     "name": "州天頃 椎奈",
     "attribute": "gravity",
     "kind": "stellar",
-    "image": false
+    "image": true
   },
   {
     "id": "kanade_n",
