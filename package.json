@@ -10,7 +10,6 @@
     "test": "jest"
   },
   "dependencies": {
-    "@types/jest": "^30.0.0",
     "date-fns": "^4.4.0",
     "jotai": "^2.20.3",
     "lucide-react": "^0.563.0",
